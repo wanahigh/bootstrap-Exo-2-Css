@@ -1,5 +1,6 @@
-#jumble{
+#jumble {
 
+  padding-left: 10%;
   background-image: url("../img/image1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -8,10 +9,16 @@
   width: auto;
 
 }
+
+#logos{
+  margin-left:10%;
+  float:left;
+}
+
+
 ul {
   display:flex;
-  justify-content: center;
-
+  float:right;
 
 }
 
