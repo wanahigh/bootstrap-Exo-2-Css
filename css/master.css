@@ -1,0 +1,33 @@
+#jumble{
+
+  background-image: url("../img/image1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border:1px solid red;
+  height:700px;
+  width: auto;
+
+}
+ul {
+  display:flex;
+  justify-content: center;
+
+
+}
+
+li {
+  text-decoration: none;
+
+}
+
+h1 .titre {
+  color:white;
+}
+
+.sous-titre{
+color:white;
+}
+
+#logo{
+  margin:12.5%
+}
