@@ -1,3 +1,4 @@
+
 #jumble{
 	background-image: url("../img/image1.jpg");
 	background-repeat: no-repeat;
@@ -20,10 +21,19 @@
   text-decoration: none;
   word-spacing: normal;
 }
+
+
+
+#logos{
+  margin-left:10%;
+  float:left;
+}
+
+
+>>>>>>> origin/master
 ul {
   display:flex;
-  justify-content: center;
-
+  float:right;
 
 }
 
