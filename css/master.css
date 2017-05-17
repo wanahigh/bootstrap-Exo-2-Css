@@ -1,12 +1,24 @@
 #jumble{
+	background-image: url("../img/image1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: 1px solid red;
+	height: 700px;
+	width: auto;
+	padding-left: 50px;
 
-  background-image: url("../img/image1.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  border:1px solid red;
-  height:700px;
-  width: auto;
+}
 
+
+.logos{
+	float: left;
+	margin-left: -78vw;
+
+}
+#nav , a{
+  float:right;
+  text-decoration: none;
+  word-spacing: normal;
 }
 ul {
   display:flex;
